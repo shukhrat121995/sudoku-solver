@@ -1,2 +1,2 @@
 # sudoku-solver
-Sudoku solver in python by using backtraking algorithm
+Sudoku solver in python by using backtracking algorithm
